@@ -1,33 +1,33 @@
 <VAST version="3.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
     <Ad id="20009">
         <InLine>
-            <AdSystem version="4.0">iabtechlab</AdSystem>
-            <AdTitle>iabtechlab video ad</AdTitle>
+            <AdSystem version="4.0">Advertisement</AdSystem>
+            <AdTitle>Advertise With Us</AdTitle>
             <Pricing model="cpm" currency="USD">
                 <![CDATA[ 25.00 ]]>
             </Pricing>
             <Error>http://example.com/error</Error>
-            <Impression id="Impression-ID">http://example.com/track/impression</Impression>
+            <Impression id="Impression-ID">https://www.binance.me/en/register?ref=76988232</Impression>
             <Creatives>
                 <Creative id="5480" sequence="1">
                     <Linear>
                         <Duration>00:00:13</Duration>
 
                         <TrackingEvents>
-                            <Tracking event="start">http://example.com/tracking/start</Tracking>
-                            <Tracking event="firstQuartile">http://example.com/tracking/firstQuartile</Tracking>
-                            <Tracking event="midpoint">http://example.com/tracking/midpoint</Tracking>
-                            <Tracking event="thirdQuartile">http://example.com/tracking/thirdQuartile</Tracking>
-                            <Tracking event="complete">http://example.com/tracking/complete</Tracking>
-                            <Tracking event="progress" offset="00:00:10">http://example.com/tracking/progress-10</Tracking>
+                            <Tracking event="start">https://www.binance.me/en/register?ref=76988232</Tracking>
+                            <Tracking event="firstQuartile">https://www.binance.me/en/register?ref=76988232</Tracking>
+                            <Tracking event="midpoint">https://www.binance.me/en/register?ref=76988232</Tracking>
+                            <Tracking event="thirdQuartile">https://www.binance.me/en/register?ref=76988232</Tracking>
+                            <Tracking event="complete">https://www.binance.me/en/register?ref=76988232</Tracking>
+                            <Tracking event="progress" offset="00:00:10">https://www.binance.me/en/register?ref=76988232</Tracking>
                         </TrackingEvents>
 
                         <VideoClicks>
                             <ClickThrough id="blog">
-                                <![CDATA[https://iabtechlab.com]]>
+                                <![CDATA[https://www.binance.me/en/register?ref=76988232]]>
                             </ClickThrough>
                            <ClickTracking>
-                                <![CDATA[http://example.com/trackingurl/clickTracking]]>
+                                <![CDATA[https://www.binance.me/en/register?ref=76988232]]>
                             </ClickTracking>
                         </VideoClicks>
 
